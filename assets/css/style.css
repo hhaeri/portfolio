@@ -34,7 +34,7 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
-h6 {
+a .h6 {
   color: #fff !important;
 }
 
