@@ -10,9 +10,9 @@
 --------------------------------------------------------------*/
 body {
   /*background-color: #f5f5f5;*/
-  background-image: url('assets/img/loo.jpg'); /* Replace 'path/to/your-image.jpg' with the actual path to your image */
-  background-size: cover; /* This property ensures the image covers the entire element */
-  background-repeat: no-repeat; /* This property prevents the image from repeating */
+  background-image: url('assets/img/loo.jpg') !important; /* Replace 'path/to/your-image.jpg' with the actual path to your image */
+  background-size: cover !important; /* This property ensures the image covers the entire element */
+  background-repeat: no-repeat !important; /* This property prevents the image from repeating */
 
   color: #4e4e4e;
 }
