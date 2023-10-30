@@ -444,8 +444,8 @@ a .h6 {
 
 #unique-button-id {
     color: #fff;
-    background-color: #000080;
-    border-color: #000080;
+    background-color: #000080 !important;
+    border-color: #000080 !important;
 }
 /*--------------------------------------------------------------
 # Nav Bar
