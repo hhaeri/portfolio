@@ -25,6 +25,10 @@ h6 {
   color: #fff !important;
 }
 
+#hh_custom {
+  color: #fff !important;
+}
+  
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
